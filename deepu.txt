@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D. Navadeepsai | Automobile Engineer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="profile">
+                    <img src="profile.jpg" alt="Navadeepsai" class="profile-img">
+                    <div>
+                        <h1>D. NAVADEEPSAI</h1>
+                        <h2>AUTOMOBILE ENGINEER</h2>
+                        <div class="contact-brief">
+                            <span><i class="fas fa-envelope"></i> navadeepsaidammalapati@outlook.com</span>
+                            <span><i class="fas fa-phone"></i> +91-8639839398</span>
+                            <span><i class="fas fa-map-marker-alt"></i> Punjab, India</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="social">
+                    <a href="https://www.linkedin.com/in/deepu827" target="_blank"><i class="fab fa-linkedin"></i></a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#achievements">Achievements</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <section id="skills" class="card">
+            <h2><i class="fas fa-tools"></i> TECHNICAL SKILLS</h2>
+            <div class="skills-container">
+                <div>
+                    <h3>Tools/Platforms</h3>
+                    <ul class="skills-list">
+                        <li>SolidWorks</li>
+                        <li>Creo</li>
+                        <li>Auto CAD</li>
+                        <li>ZW CAD</li>
+                        <li>MATLAB</li>
+                        <li>ANSYS</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Soft Skills</h3>
+                    <ul class="skills-list">
+                        <li>Critical Thinking</li>
+                        <li>Collaboration</li>
+                        <li>Project Management</li>
+                        <li>Adaptability</li>
+                        <li>Leadership</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="experience" class="card">
+            <h2><i class="fas fa-briefcase"></i> EXPERIENCE</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <h3>PS Industries, Jalandhar <span class="date">June 2024</span></h3>
+                    <p class="role">Student Intern</p>
+                    <ul>
+                        <li>Performed quality checks on cast parts including hardness testing and imperfection analysis</li>
+                        <li>Instruments used: Rockwell Hardness Setup, Vernier Calipers</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="card">
+            <h2><i class="fas fa-project-diagram"></i> PROJECTS</h2>
+            <div class="project">
+                <h3>Aravalli Terrain Vehicle Championship 2025 (ATVC) <span class="date">March 2025</span></h3>
+                <p class="role">Chief Steering Engineer</p>
+                <ul>
+                    <li>Led the Steering department</li>
+                    <li>Successfully qualified in technical, static, dynamic, and endurance rounds</li>
+                </ul>
+            </div>
+            
+            <div class="project">
+                <h3>Aravalli Terrain Vehicle Championship 2024 (ATVC) <span class="date">March 2024</span></h3>
+                <p class="role">Team Member (Steering Department)</p>
+                <ul>
+                    <li>Contributed as member of Steering department</li>
+                    <li>Collaborated with senior team members</li>
+                    <li>Successfully qualified all competition rounds</li>
+                </ul>
+            </div>
+            
+            <div class="project">
+                <h3>Indian Karting Race (IKR) <span class="date">April 2023 - October 2023</span></h3>
+                <p class="role">Team Member (Design Department)</p>
+                <ul>
+                    <li>Contributed to Design department</li>
+                    <li>Collaborated with senior team members</li>
+                    <li>Achieved 2nd Runner up position in EV Category</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="co-curricular" class="card">
+            <h2><i class="fas fa-users"></i> CO-CURRICULAR ACTIVITIES</h2>
+            <div class="activity">
+                <h3>SAE India Effi Cycle 13 & 14 <span class="date">Nov 2022 & Jan 2024</span></h3>
+                <p class="role">Volunteer | Accommodation Team Leader | Judge Handling Team</p>
+                <ul>
+                    <li>Coordinated participant accommodations and check-in processes</li>
+                    <li>Managed judge communications and schedules</li>
+                    <li>Awarded Best Volunteer in Effi Cycle 14</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="education" class="card">
+            <h2><i class="fas fa-graduation-cap"></i> EDUCATION</h2>
+            <div class="education-item">
+                <h3>Bachelor of Technology - Automobile Engineering</h3>
+                <p>Lovely Professional University, Punjab <span class="date">Aug 2022 - Present</span></p>
+                <p class="grade">CGPA: 6.87</p>
+            </div>
+            <div class="education-item">
+                <h3>Intermediate</h3>
+                <p>SR Junior College, Vijayawada <span class="date">Jun 2020 - Mar 2022</span></p>
+                <p class="grade">Percentage: 83%</p>
+            </div>
+            <div class="education-item">
+                <h3>Matriculation</h3>
+                <p>Sri Chaitanya School, Vijayawada <span class="date">Mar 2020</span></p>
+                <p class="grade">Percentage: 95%</p>
+            </div>
+        </section>
+
+        <section id="achievements" class="card">
+            <h2><i class="fas fa-trophy"></i> ACHIEVEMENTS & CERTIFICATIONS</h2>
+            <div class="achievement">
+                <h3>2nd Runner-up in IKR 2023 (EV Category)</h3>
+                <p class="date">January 2024</p>
+            </div>
+            <div class="achievement">
+                <h3>Best Volunteer Award in SAE Effi Cycle 14</h3>
+                <p class="date">January 2024</p>
+            </div>
+            <div class="achievement">
+                <h3>Hybrid Electric Vehicles Certification (Acmegrade)</h3>
+                <p class="date">Dec 2022 - Jan 2023</p>
+            </div>
+            <div class="achievement">
+                <h3>Formula Student Vehicle Design Course (Curiosum Tech)</h3>
+                <p class="date">October 2024</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 D. Navadeepsai. All rights reserved.</p>
+            <div class="footer-contact">
+                <a href="mailto:navadeepsaidammalapati@outlook.com"><i class="fas fa-envelope"></i></a>
+                <a href="tel:+918639839398"><i class="fas fa-phone"></i></a>
+                <a href="https://www.linkedin.com/in/deepu827" target="_blank"><i class="fab fa-linkedin"></i></a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
